@@ -167,6 +167,13 @@ body {
     grid-template-rows: repeat(4, 1fr);
     grid-gap: 2rem 2rem;
   }
+  .card-title {
+    font-size: 2rem;
+  }
+
+  .card-text {
+    font-size: 1.3rem;
+  }
 
   .container {
     width: 100%;
