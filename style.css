@@ -197,6 +197,9 @@ body {
 }
 
 @media screen and (max-width: 375px) {
+  html {
+    font-size: 62.5%;
+  }
   .card-group {
     grid-template-columns: repeat(1, 1fr);
     grid-template-rows: 1fr 0.5fr 0.5fr 0.9fr 1fr;
